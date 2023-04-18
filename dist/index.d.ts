@@ -155,7 +155,8 @@ declare enum Network {
     ARBITRUM = 42161,
     AVALANCHE = 43114,
     FUJI = 43113,
-    VELAS = 106
+    FANTOM = 250,
+    FANTOM = 250
 }
 
 declare enum PoolSpecialization {

@@ -2060,7 +2060,7 @@
         Network[Network["ARBITRUM"] = 42161] = "ARBITRUM";
         Network[Network["AVALANCHE"] = 43114] = "AVALANCHE";
         Network[Network["FUJI"] = 43113] = "FUJI";
-		Network[Network["VELAS"] = 106] = "VELAS";
+		Network[Network["FANTOM"] = 250] = "FANTOM";
     })(exports.Network || (exports.Network = {}));
 
     const SUBGRAPH_URLS = {
