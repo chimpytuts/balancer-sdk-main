@@ -765,7 +765,7 @@
     }
 
     const balancerVaultMap = {
-		250: '0xb3E32Cc81413c73B3c499c9BFCE47Ad9cf68B550',
+		250: '0xfa794b00417FE81d7E16B86283d7150fbdA0F975',
     };
 
     /*
