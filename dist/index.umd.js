@@ -2059,6 +2059,7 @@
         Network[Network["KOVAN"] = 42] = "KOVAN";
         Network[Network["POLYGON"] = 137] = "POLYGON";
         Network[Network["ARBITRUM"] = 42161] = "ARBITRUM";
+		Network[Network["BINANCE"] = 56] = "BINANCE";
         Network[Network["AVALANCHE"] = 43114] = "AVALANCHE";
         Network[Network["FUJI"] = 43113] = "FUJI";
 		Network[Network["FANTOM"] = 250] = "FANTOM";
